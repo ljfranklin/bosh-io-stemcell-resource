@@ -12,7 +12,7 @@ import (
 	"github.com/concourse/bosh-io-stemcell-resource/progress"
 )
 
-const routines = 10
+const routines = 40
 
 type concourseInRequest struct {
 	Source struct {
